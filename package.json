@@ -1,0 +1,17 @@
+{
+  "name": "lee",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "bowser": "^1.0.0",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lee",
+  "license": "ISC"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "lee",
+  "description": "test",
+  "main": "\"\"",
+  "authors": [
+    "lee"
+  ],
+  "license": "LIC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  },
+  "keywords": [
+    "bower"
+  ],
+  "private": true
+}
