@@ -5,9 +5,9 @@
   "authors": [
     "lee"
   ],
-  "license": "LIC",
+  "license": "\"\"",
   "moduleType": [],
-  "homepage": "",
+  "homepage": "https://github.com/yongchengd/myfirst.git",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -17,7 +17,9 @@
     "app/bower_components"
   ],
   "dependencies": {
-    "jquery": "^2.2.2"
+    "jquery": "^2.2.2",
+    "bootstrap": "^3.3.6",
+    "requirejs": "^2.2.0"
   },
   "keywords": [
     "bower"
